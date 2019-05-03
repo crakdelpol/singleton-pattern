@@ -1,6 +1,8 @@
 # SingletonPattern
 Example of singleton pattern
 
+La mia risposta su Quora [Che cos'è un singleton in informatica?](https://qr.ae/TWpfPk)
+
 Vari utilizzi del pattern singleton
 
  * scrivere log e gestione delle eccezioni: invece di instanziale piu' log viene instanziato 1 logger solo e riutilizzato con diverse diciture.
@@ -11,3 +13,4 @@ Vari utilizzi del pattern singleton
 
 Il java singleton pattern è stato definito per ottimizzare le applicazioni Java. Assicura che gli oggetti condivisi tra i threads siano gestiti correttamente e non ci sia incoerenza di dati.
 Ci sono molti modi per implementare il singleton pattern  in questo progetto ne ho visti solo alcuni.
+
